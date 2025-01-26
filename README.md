@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PAGESBen
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning web dev at openclassroom 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on data and digital in hospitality
+- 💞️ I’m looking to collaborate on data project (BI) and digital app for hotels
 - 📫 How to reach me ...
 
 <!---
